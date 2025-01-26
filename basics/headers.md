@@ -2,7 +2,7 @@
 ## H2
 ### H3
 #### H4
-###### H5
-####### H6
+##### H5
+###### H6
 
 + Tip: the bigger the number, the smaller the header
