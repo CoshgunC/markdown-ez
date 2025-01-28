@@ -11,9 +11,9 @@ the results are `inline code`, amazing!
 
 ### For codeblocks, follow this syntax
 ```
-```
-print("Hello world")
-```
+  ```
+  print("Hello world")
+  ```
 ```
 
 the results are 
