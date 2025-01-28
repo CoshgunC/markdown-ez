@@ -6,14 +6,14 @@ For inline code, follow the below syntax
 ```
 `inline code`
 ```
+**Fact**: Always go on a new line to create a codeblock successfuly
 
 the results are `inline code`, amazing!
 
-### For codeblocks, follow this syntax
+### For codeblocks
+Use triple backsticks ` ``` ` and the code you want to show.
 ```
-  ```
-  print("Hello world")
-  ```
+Code code() {}
 ```
 
 the results are 
